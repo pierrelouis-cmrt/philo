@@ -1,0 +1,2 @@
+
+Chez Hobbes, le contrat social est un accord par lequel les individus renoncent à leur liberté naturelle et transfèrent leur pouvoir à un souverain absolu, en échange de la sécurité et de l'ordre. Ce pacte fonde l'autorité politique légitime et évite l'état de nature, que Hobbes décrit comme un état de guerre de chacun contre tous.

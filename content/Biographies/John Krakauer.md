@@ -1,0 +1,2 @@
+
+Jon Krakauer est un auteur, journaliste et alpiniste américain né le 12 avril 1954 à Brookline, Massachusetts. Il est surtout connu pour ses récits d'aventures en plein air et d'exploration, ainsi que pour ses reportages d'investigation. Son ouvrage le plus célèbre, _Into the Wild_ (1996), raconte l'histoire tragique de Christopher McCandless, un jeune homme qui a quitté la société pour vivre dans la nature sauvage de l'Alaska.

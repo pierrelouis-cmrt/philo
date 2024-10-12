@@ -1,0 +1,4 @@
+
+Économiste, sociologue et philosophe allemand (Erfurt 1864-Munich 1920).
+
+Contemporain d'[Émile Durkheim](https://www.larousse.fr/encyclopedie/personnage/%C3%89mile_Durkheim/117481), Max Weber fait aussi partie des fondateurs de la [sociologie](https://www.larousse.fr/encyclopedie/divers/sociologie/92348) moderne, qui analyse le mode de fonctionnement et la finalité de la société industrielle. Son œuvre maîtresse, [l'Éthique protestante et l'esprit du capitalisme](https://www.larousse.fr/encyclopedie/oeuvre/l_%C3%89thique_protestante_et_lesprit_du_capitalisme/118589), rayonne depuis un siècle sur l'histoire des idées.

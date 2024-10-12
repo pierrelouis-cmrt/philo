@@ -1,0 +1,2 @@
+
+Luther est un moine, professeur de théologie. Il critique les pratiques de l’Église catholique, comme la vente des indulgences, qu’il trouve contraires à l’enseignement de la Bible. Excommunié en 1521 par le pape Léon X, il est protégé par le prince allemand, Frédéric le Sage. Grâce à ce protecteur, il peut développer ses idées réformatrices et constituer en Allemagne les bases des premières Églises protestantes. Ses idées se répandent très vite en Europe, notamment grâce à l’imprimerie.

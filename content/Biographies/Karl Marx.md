@@ -1,0 +1,2 @@
+
+Karl Marx est un journaliste, théoricien et révolutionnaire allemand né le 5 mai 1818 à Trèves, en Prusse, et mort le 14 mars 1883 à Londres. Coauteur du _Manifeste du parti communiste_ avec Friedrich Engels, il a posé les fondements du mouvement socialiste et ouvrier avec son ouvrage _Le Capital_. Grand critique du capitalisme et défenseur du prolétariat, il a exercé une influence considérable sur les mouvements révolutionnaires et les sciences humaines et sociales du XXe siècle.

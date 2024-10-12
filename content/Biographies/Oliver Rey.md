@@ -1,0 +1,2 @@
+
+Oliver Rey est un écrivain, philosophe et essayiste français. Né en 1965, il est connu pour ses réflexions sur les impacts de la modernité sur l'homme et son environnement. Il critique la surmodernité et les excès technologiques, notamment dans ses ouvrages comme *"Le Temps du monde fini"* (2010). Rey explore aussi des questions liées à l'écologie, la politique, et le sens de la vie dans un monde de plus en plus déshumanisé. Ses travaux mettent souvent en avant une quête d'équilibre face aux dérives contemporaines et un retour à des valeurs humaines fondamentales.

@@ -1,0 +1,2 @@
+
+L'anthropologie est l'étude des êtres humains, de leurs sociétés et de leurs cultures, à travers le temps et l'espace. Elle examine à la fois les aspects biologiques, culturels et sociaux des humains pour comprendre leurs modes de vie, comportements et évolutions.

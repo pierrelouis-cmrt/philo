@@ -1,0 +1,2 @@
+
+Jean Calvin est un juriste, humaniste, qui adhère aux idées nouvelles de Martin Luther et devient un grand théologien. Obligé de quitter la France pour Genève, c’est là qu’il bâtit le modèle des Églises réformées. Genève devient une ville-phare du protestantisme.

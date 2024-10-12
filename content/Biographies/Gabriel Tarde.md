@@ -1,0 +1,2 @@
+
+Si à certaines notions, fondamentales en sociologie – la conscience collective, l'idéal type, la communauté –, sont associés les noms de Durkheim, Weber et Tönnies, qu'elles suffisent à évoquer, c'est au thème de l'imitation que celui de Tarde demeure classiquement attaché. Le rôle essentiel que ce dernier a assigné à la répétition ainsi qu'aux phénomènes de contagion dans la formation et l'évolution des comportements l'a opposé à Durkheim.

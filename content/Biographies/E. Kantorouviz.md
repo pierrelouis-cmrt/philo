@@ -1,0 +1,2 @@
+
+Ernst Kantorowicz (1895-1963) était un historien germano-américain spécialisé dans la théologie politique médiévale. Son œuvre majeure, **"Les Deux Corps du Roi"**, explore l'idée que les rois médiévaux possédaient un corps physique et un corps politique. Il enseigna à Berkeley et à Princeton après avoir fui l'Allemagne nazie.

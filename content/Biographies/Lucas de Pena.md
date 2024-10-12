@@ -1,0 +1,2 @@
+
+Lucas de Penna (ou Luca de Penna) était un juriste napolitain du XVIe siècle. Il est surtout connu pour son travail en tant que commentateur des lois et du droit canonique. Ses contributions importantes incluent des commentaires détaillés sur le **Codex Justinianus**, un recueil des lois romaines, qui a influencé le développement du droit en Europe. Ses écrits ont joué un rôle clé dans la diffusion et l'interprétation du droit romain dans les tribunaux de l'époque.

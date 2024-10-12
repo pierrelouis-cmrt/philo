@@ -1,0 +1,5 @@
+Tite-Live (en latin **Titus Livius**), né en 59 avant J.-C. à Padoue et mort en 17 après J.-C., est un historien romain célèbre pour son œuvre monumentale, **"Ab Urbe Condita"** (Depuis la fondation de la ville). Cette œuvre raconte l'histoire de Rome depuis sa fondation légendaire en 753 avant J.-C. jusqu'à son époque, couvrant environ sept siècles d'histoire.
+
+Bien que Tite-Live ne soit pas un acteur majeur dans la vie politique ou militaire de son époque, il fut très apprécié par l'empereur Auguste, qui appréciait ses récits glorifiant les vertus romaines. Son œuvre est une source précieuse pour comprendre l’histoire et la culture de la Rome antique, même si elle doit parfois être lue avec précaution en raison de son souci de magnifier le passé romain.
+
+Malheureusement, une grande partie de son travail a été perdue : sur les 142 livres qu'il a écrits, seuls 35 nous sont parvenus. Son style narratif, vivant et dramatique, a influencé de nombreux historiens et écrivains de l'Antiquité jusqu'à nos jours.

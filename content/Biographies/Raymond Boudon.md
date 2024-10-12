@@ -1,0 +1,2 @@
+
+Né à Paris en 1934, normalien agrégé de philosophie en 1958, nommé professeur de sociologie à la Sorbonne (Paris-IV) en 1967, membre de l'Institut en 1990, Raymond Boudon a aussi enseigné régulièrement à l'université de Genève et connu une riche carrière internationale, enseignant notamment à Harvard, Chicago et Oxford.
