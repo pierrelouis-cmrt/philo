@@ -1,5 +1,6 @@
 ---
-title: Welcome!
+title: Philo!
 ---
 
-Pour accéder au cours de philo, c'est [ici](/Cours/Cours%20Philo.md)!
+Vous trouverez ici le cours de philo complet et à jour de la formation CapECL.
+Pour y accéder, c'est [ici](/Cours/Cours%20Philo.md)!
