@@ -361,3 +361,94 @@ L'un de ses premiers livres :
 
 Texte 1 :
 [[Les Régles de la méthode sociologique, E. Durkheim (1894)]]
+
+
+Exemple de contraintes : les normes sociales, la pression sociale.
+Exemple de sanction : le rejet social, l'exclusion du corps social.
+Exemple de fait social : l'argent.
+
+La sanction va du mauvais regard à la peine de mort.
+
+---
+
+Film <u>Reservoir Dogs</u>, scène du pourboire
+
+---
+
+Durkheim étudit aussi le taux de suicide qu'il liera ensuite aux liens sociaux.
+Il conclue que le suicide existera toujours.
+
+L'individu est constitué d'un faisceau de faits sociaux provenant de la société.
+
+Pour Durkheim, la religion représente la conscience collective de la société.
+Il pense que la conscience individuelle existe mais que tout est lié à la société.
+
+Conscience morale = conscience intériorisée de la société
+
+Voir [[Antigone]].
+
+
+#### 2. La méthode des variations concomitantes
+
+La sociologie n'analyse pas l'individu (en tout cas chez Durkheim).
+Ce dernier opte pour un travail statistique, analytique.
+
+Pour lui, le taux de suicide est directement corrélé avec le niveau d'éducation.
+
+Il affirme : 
+> "La concomittance constante est donc par elle-même une loi"
+
+NB: corrélation $\neq$ causalité
+
+En effet, 3 cas de loi :
+- causalité directe : A$\Rightarrow$B 
+- dépendance d'une même cause : C$\Rightarrow$A et C$\Rightarrow$B 
+- présence d'une cause intermédiaire : A$\Rightarrow$B$\Rightarrow$C
+
+Exemple :
+taux de suicide // taux d'études
+Les deux dépendent d'une même cause, l'affaiblissement du traditionalisme religieux.
+
+ $\rightarrow$ méthode quantitative et statistique
+ 
+---
+
+André Siegfield (1913)
+- utilisation de cartes géologiques pour aboutir à la conclusion suivante :
+En Vendée, le Nord en granite vote à droite et le Sud en calcaire vote à gauche.
+Il a dit : "Le granite produit le curé, le calcaire l'instituteur."
+
+---
+
+Durkheim :
+"Il faut traiter les phénomènes sociaux comme des choses."
+
+chose : exeriorité, objectivité, qqch de mesurable (def de la science physiqiue, ce sont les conditions de la scientificité de la société)
+
+Les faits sociaux sont "comme des moules en lesquels nous sommes nécessités à couler nos actions."
+nécessité = contrainte
+
+Exemple : pour faire passer un message, il faut le mouler dans la langue française pour se faire comprendre. La langue est un moule qui s'impose à nous.
+
+### III. L'individualisme selon Durkheim
+
+#### 1. La conception durkheimienne de l'Histoire
+
+- loi générale de l'histoire : <u>La Divison du Travail Social</u>
+$\rightarrow$ C'est la diversification et la spécialisation des fonctions
+
+- société homogène : ressemblance, solidarité, mécanique
+Mais la société est de plus en plus hétérogène en raison de la différentiation :
+1. + de personnalisation
+2. + de solidarité (organique)
+
+On constate également une augmentation de l'individualisme moral (=fait social) :
+- engagement pour la dégense des droits et de la dignité des individus
+
+##### Document 4
+
+Texte 2 :
+[[L'individualisme et les intellectuels]]
+
+Texte 3 :
+[[Un Songe]]

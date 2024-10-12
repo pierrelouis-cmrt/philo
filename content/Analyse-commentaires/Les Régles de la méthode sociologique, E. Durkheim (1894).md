@@ -10,9 +10,9 @@ coercition : fait de contraindre
 
 ###### Réponses
 
-1. Les deux principales caractéristiques d'un fait social selon Durkheim sont :
+1. Les deux principales caractéristiques d'un [[fait social]] selon Durkheim sont :
    - *Extériorité* : Les faits sociaux existent en dehors des consciences individuelles. Ils sont des manières d’agir, de penser et de sentir qui existent indépendamment des individus.
-   - *Coercition* : Les faits sociaux s’imposent aux individus, que cela soit volontaire ou non. Cette contrainte peut être ressentie lorsque l’individu tente de résister.
+   - *Coercition* : Les faits sociaux s’imposent aux individus, que cela soit volontaire ou non. Cette contrainte ($\approx$ sanction) peut être ressentie lorsque l’individu tente de résister. Le fait social est doté d'une puissance coercitive.
 
 2. Exemples de faits sociaux :
    - *Langue* : C'est un fait social car elle existe indépendamment de la volonté des individus et s'impose à eux comme un moyen de communication.
