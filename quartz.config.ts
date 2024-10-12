@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "fr-FR",
-    baseUrl: "pierrelouis.net/philo",
+    baseUrl: "pierrelouis.net",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
