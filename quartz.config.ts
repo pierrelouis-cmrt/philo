@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "fr-fr",
+    locale: "fr-FR",
     baseUrl: "pierrelouis.net/philo",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
