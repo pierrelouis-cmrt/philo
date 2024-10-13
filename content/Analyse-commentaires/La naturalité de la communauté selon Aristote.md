@@ -26,9 +26,9 @@ Pour Aristote, l'homme, l'être humain est un animal politique.
 - Voix = expression des sensations
 - Langage = ce qui permet de débattre et de s'exprimer
 
-L'organiphisme : $\frac{\text{communauté}}{\text{individu}} = \frac{\text{corps}}{\text{membres}}$
+L'organicisme : $\frac{\text{communauté}}{\text{individu}} = \frac{\text{corps}}{\text{membres}}$
 
-Grace à la communauté, l'individu a des fonctions (c'est sa définition même)
+Grâce à la communauté, l'individu a des fonctions (c'est sa définition même)
 
 Voir :
 

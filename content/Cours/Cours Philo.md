@@ -13,12 +13,12 @@
 Dualisme :
 - choix, volonté
 - reçue, héritage
-Mais alors ou se place la communauté nationale par exemple ?
+Mais alors où se place la communauté nationale par exemple ?
 
 ###### Problématique 2 :
 
 La communauté précède-t-elle l'individu ?
-Ou les individues sont-ils les ingrédients de la communauté ?
+Où les individus sont-ils les ingrédients de la communauté ?
 
 > Est-ce que la communauté est un assemblage d'individus qui étaient libres et isolés auparavant ou bien la communauté précède l'individu ?
 
@@ -43,7 +43,7 @@ Evoque le "[[naturel]]"
 
 ## Leçon 2
 
-### I. La conception pré-moderne de la communauté (Aristote)
+### I. La conception prémoderne de la communauté (Aristote)
 
 Homme = animal politique
 Sa finalité est al communauté politique
@@ -61,7 +61,7 @@ Le terme "le bien", en revanche, peut être associé à d'autres concepts philos
 ##### Illustrations :
 
 
-- [[Salimbene de Parma]] (qui n'aime pas Frédéric II), fin XIII<sup>ème</sup> :
+- [[Salimbene de Parma]] (qui n'aime pas Frédéric II), fin XXIIIᵉ :
 Chronique, paragraphe 1664 :
 Un bébé à qui on ne parle pas meurt, l'homme n'a donc pas de langage pré-défini.
 
@@ -82,7 +82,7 @@ Ce qui ne peut être divisé sans perdre ses caractéristiques propres (unité e
 Séparer l'individu de la communauté dont il appartient, l'isoler de tous ses liens.
 $\rightarrow$ Atome = atomos, inséparable
 
-Or, pour [[Aristote]], l'individu n'est pas l'élément fondammental. Son identité est définie par la communauté qui le précède.
+Or, pour [[Aristote]], l'individu n'est pas l'élément fondamental Son identité est définie par la communauté qui le précède.
 
 La conception moderne se différencie de la vision d'[[Aristote]].
 
@@ -96,28 +96,28 @@ Pire chose possible pour les grecs : l'[[hybris]].
 
 ###### Les héros mythologiques ?
 
-Le status héroïque dépend bien de la floire accordée par la cité, comme une mémoire glorieuse de quelqu'un. Il existe les héros (de valeurs positives) et les anti-héros (anti-models) qui incarnent ce qu'il ne faut pas.
+Le status héroïque dépend bien de la gloire accordée par la cité, comme une mémoire glorieuse de quelqu'un. Il existe les héros (de valeurs positives) et les anti-héros (anti-modèles) qui incarnent ce qu'il ne faut pas.
 
 Voir [[Jean-Pierre Vernant]], <u>L'individu dans la cité</u>, 1985 :
 
 Le héros incarne et solidifie les valeurs de la cité. 
-(ce qui pose également des problèmatiques)
+(ce qui pose également des problématiques)
 
 
-### II. La conception artificialiste de l'Etat et de l'individu chez [[Thomas Hobbes]]
+### II. La conception artificialiste de l'État et de l'individu chez [[Thomas Hobbes]]
 
 [[Thomas Hobbes]] (1588-1679)
 
-L'homme est né avec la peur, car c'est cette même peur qui a fait acoucher sa mère.
+L'homme est né avec la peur, car c'est cette même peur qui a fait accoucher sa mère.
 On parle ici principalement de la peur de la guerre civile en politique (vécu par Hobbes).
-En effet, Hobbes a vécu toute sa vie dans un chaos politique. Sa seule solution : une authorité forte pour éviter la guerre civile.
+En effet, Hobbes a vécu toute sa vie dans un chaos politique. Sa seule solution : une autorité forte pour éviter la guerre civile.
 
-Son oeuvre la plus connue : <u>Leviathan</u>, 1651
+Son œuvre la plus connue : <u>Leviathan</u>, 1651
 
 Point de départ de la politique : la réflexion [[anthropologique]].
 
-Pour Hobbes, la société n'est pas un corps mais un automate (influence de la science de [[Galilée]]).
-Tout est matière, tout s'explique par cause à effet, plus de réglexion sur la finalité des choses.
+Pour Hobbes, la société n'est pas un corps, mais un automate (influence de la science de [[Galilée]]).
+Tout est matière, tout s'explique par cause à effet, plus de réflexion sur la finalité des choses.
 
 On parle alors de mécanisme (anthropologie mécaniste) et de matérialisme.
 
@@ -127,10 +127,10 @@ L'homme est un corps qui comme tous les autres corps suit le principe d'inertie,
 - Intro du <u>Leviathan</u>
 
 Citation du chapitre XI :
-"Je teisn comme un inclination générale de tous les hommes, un désir permanent et sans relâche d'acquérir pouvoir après pouvoir, désir qui ne cesse qu'à la mort."
+"Je teins comme une inclination générale de tous les hommes, un désir permanent et sans relâche d'acquérir pouvoir après pouvoir, désir qui ne cesse qu'à la mort."
 
 Chapitre XIII :
-Hobbes pense l'"Etat de nature" (=analyse de la condition orginaire de la nature).
+Hobbes pense l'État de nature" (=analyse de la condition originaire de la nature).
 
 Voir : [[nature pour Hobbes]].
 
@@ -162,12 +162,12 @@ Chapitre 17 :
 ---
 
 *Comment ma volonté est-elle représentée par le pouvoir ?*
-ex : élections dans le cas d'une société démocratique
+ex : élections dans le cas d'une société démocratique.
 
 ### I. L'inversion de la finalité
 
 Aristote : l'être humain est un homme finalisé : tout être vivant est finalisé
-$\rightarrow$ tendance intérieur à un accomplissement 
+$\rightarrow$ tendance intérieure à un accomplissement 
 
 nature = principe de mouvement
 - nascor (natura) = naître
@@ -190,7 +190,7 @@ Dualisme :
 
 La doctrine aristotélicienne est paternaliste.
 
-La vision d'Aristote ne permet pas la présence de définitin du bonheur.
+La vision d'Aristote ne permet pas la présence de définition du bonheur.
 La liberté effective se joue dans la conformité rationnelle des lois.
 
 |     Modéle A      |                        Modèle H                        |
@@ -219,7 +219,7 @@ Texte 4 :
 |                                       Logique du corps                                       | Logique de l'âme |
 | Ordre de filiation, fait naturel de l'engendrement, analogie familiale (doctrine chrétienne) | Spiritualisation |
 
-Au Moyen-Age, **analogie** :
+Au Moyen Âge, **analogie** :
 
 $\frac{\text{Christ}}{\text{Communauté chrétienne}}=\frac{\text{Roi}}{\text{République}}$
 
@@ -252,37 +252,37 @@ Il étudie les cités grecques pour comprendre les institutions
 | [[perversion]] | dictature (tyran) |         oligarchie          |     [[ochlocartie]]     |
 
 Aristote a une sociologie implicite.
-Il explique le compretement des individus à partir des liens sociaux.
+Il explique le comportement des individus à partir des liens sociaux.
 
 ---
 
-Hobbes : le tout social s'explique à cause des comportements individuels égoistes.
+Hobbes : le tout social s'explique à cause des comportements individuels égoïstes.
 Il est le précurseur du discours économique classique.
 
 #### 2. L'invention de la sociologie
 
-Popularisation du terme avec August Comte (années 1830, inventeur du psotivisme).
+Popularisation du terme avec Auguste Comte (années 1830, inventeur du positivisme).
 Pour lui, la sociologie est une "physique sociale".
 Compte a grandement inspiré Zola (ex : la loi de l'hérédité, l'alcoolisme se transmet à travers les génération)
 
 Apparition de la [[phrénologie]].
 
 Age religieux $\rightarrow$ age métaphysique $\rightarrow$ positivisme
-Fait positifs = faits oservables objectivement, factuellement
+Fait positifs = faits observables objectivement, factuellement
 
 Définition de la sociologie :
-Etude positive de l'ensemble des lois fondammentales propres aux phénomènes sociologiques.
+Étude positive de l'ensemble des lois fondamentales propres aux phénomènes sociologiques.
 
 
 
 [[Karl Marx]] : pensée sociologique fondée sur le matérialisme historique (il pense que le moteur de l'histoire est la matière)
 Nous serions tous déterminés par la matière.
-L'organnisation et l'évolution de la société est determinée par les rapoorts de production.
-Etat centralisé nécessaire : il fallait centrer le capital.
+L'organisation et l'évolution de la société est déterminée par les rapports de production.
+État centralisé nécessaire : il fallait centrer le capital.
 
-"L'infrastructure (l'echelle économique) déterminée par la super-structure (idéologique)."
+"L'infrastructure (l'échelle économique) déterminée par la super-structure (idéologique)."
 
-idées, représentation, structure sociale
+Idées, représentation, structure sociale
 $\rightarrow$ passer à l'acte, révolution (communisme)
 
 Gauche : révolutionnaires VS réformistes
@@ -300,14 +300,14 @@ La collectivité détermine le comportement individuel.
 #### 4. Les écoles hérétiques
 
 <u>Paradigme commune :</u> individualisme méthodologique
-Les phénomènes sociaux s'expliquent à partir des décision (rationneles) des individus.
+Les phénomènes sociaux s'expliquent à partir des décisions (rationnelles) des individus.
 
 [[Gabriel Tarde]] et [[Gustave Le Bon]] $\rightarrow$ psychologie des foules
 Tous deux influencés par la psychologie.
-A ce moment, la phychologie était toujours individuelle.
+À ce moment, la psychologie était toujours individuelle.
 
-"L'immitation permet d'expliquer des phénomènes collectifs à partir d'aggrégation de comportements individuels."
-aggrégation : mettre ensemble, enchainement de comportement
+"L'imitation permet d'expliquer des phénomènes collectifs à partir d'agrégation de comportements individuels."
+agrégation : mettre ensemble, enchainement de comportement
 
 [[Raymond Boudon]] :
 - ne pas vouloir de fossé entre soit et sa famille
@@ -319,24 +319,24 @@ aggrégation : mettre ensemble, enchainement de comportement
 Essayer de comprendre le point de vue des agents sociaux, leurs motivations.
 Notion centrale : les valeurs
 
-Pour Weber, les représentations religieuses sont le faits de l'opinion du peuple (de la condition matérielle). La religion est l'opinion du peuple.
+Pour Weber, les représentations religieuses sont les faits de l'opinion du peuple (de la condition matérielle). La religion est l'opinion du peuple.
 
 Marx $\neq$ Weber
 
 Pour Weber, les valeurs sont capables de mobiliser.
 
 <u>"L'ethique protestante et l'esprit du capitalisme"</u>
-Weber remarque que là où le protestantisme s'est développé, c'est là aussi où le capitalisem est arrivé en premier. Ces valeurs ont-elles pues favoriser un certains développement économique ? (par oppositon totale au catholicisme)
+Weber remarque que là où le protestantisme s'est développé, c'est là aussi où le capitalisme est arrivé en premier. Ces valeurs ont-elles pus favoriser un certain développement économique ? (par opposition totale au catholicisme)
 
 
 
 Chez [[Luther]] (qui a traduit la bible en allemand), il utilise le mot *Beruf* pour :
 - vocation, appel divin
-- travail métier (sens courant actuel)
+- travail métier (sens courant actuel).
 
 Les gens conçoivent leur propre métier comme une vocation divine $\rightarrow$ représentation de leur accomplissement.
 
-Le travail est en effet la première vocation de l'homme. La pénabilité du travail est une malédiction, pas le travail lui même.
+Le travail est en effet la première vocation de l'homme. La pénibilité du travail est une malédiction, pas le travail lui-même.
 
 
 [[Calvin]] : Doctrine de la prédestination
@@ -348,9 +348,9 @@ Il y a des élus au sein de la population, cela se manifeste par l'association d
 
 Weber n'est pas individualiste.
 
-### II. La constitution de la sociologie comme science (Emile Durkheim)
+### II. La constitution de la sociologie comme science (Émile Durkheim)
 
-#### 1. Qu'est ce qu'un fait social ?
+#### 1. Qu'est-ce qu'un fait social ?
 
 L'un de ses premiers livres :
 
@@ -375,13 +375,13 @@ Film <u>Reservoir Dogs</u>, scène du pourboire
 
 ---
 
-Durkheim étudit aussi le taux de suicide qu'il liera ensuite aux liens sociaux.
-Il conclue que le suicide existera toujours.
+Durkheim étudie aussi le taux de suicide qu'il liera ensuite aux liens sociaux.
+Il conclut que le suicide existera toujours.
 
 L'individu est constitué d'un faisceau de faits sociaux provenant de la société.
 
 Pour Durkheim, la religion représente la conscience collective de la société.
-Il pense que la conscience individuelle existe mais que tout est lié à la société.
+Il pense que la conscience individuelle existe, mais que tout est lié à la société.
 
 Conscience morale = conscience intériorisée de la société
 
@@ -396,9 +396,9 @@ Ce dernier opte pour un travail statistique, analytique.
 Pour lui, le taux de suicide est directement corrélé avec le niveau d'éducation.
 
 Il affirme : 
-> "La concomittance constante est donc par elle-même une loi"
+> "La concomitance constante est donc elle-même une loi"
 
-NB: corrélation $\neq$ causalité
+NB : corrélation $\neq$ causalité
 
 En effet, 3 cas de loi :
 - causalité directe : A$\Rightarrow$B 
@@ -415,7 +415,7 @@ Les deux dépendent d'une même cause, l'affaiblissement du traditionalisme reli
 
 André Siegfield (1913)
 - utilisation de cartes géologiques pour aboutir à la conclusion suivante :
-En Vendée, le Nord en granite vote à droite et le Sud en calcaire vote à gauche.
+En Vendée, le nord en granite vote à droite et le sud en calcaire vote à gauche.
 Il a dit : "Le granite produit le curé, le calcaire l'instituteur."
 
 ---
@@ -423,7 +423,7 @@ Il a dit : "Le granite produit le curé, le calcaire l'instituteur."
 Durkheim :
 "Il faut traiter les phénomènes sociaux comme des choses."
 
-chose : exeriorité, objectivité, qqch de mesurable (def de la science physiqiue, ce sont les conditions de la scientificité de la société)
+Chose : extériorité, objectivité, qq ch de mesurable (def de la science physique, ce sont les conditions de la scientificité de la société)
 
 Les faits sociaux sont "comme des moules en lesquels nous sommes nécessités à couler nos actions."
 nécessité = contrainte
@@ -443,7 +443,7 @@ Mais la société est de plus en plus hétérogène en raison de la différentia
 2. + de solidarité (organique)
 
 On constate également une augmentation de l'individualisme moral (=fait social) :
-- engagement pour la dégense des droits et de la dignité des individus
+- engagement pour la défense des droits et de la dignité des individus.
 
 ##### Document 4
 

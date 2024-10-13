@@ -15,7 +15,7 @@ coercition : fait de contraindre
    - *Coercition* : Les faits sociaux s’imposent aux individus, que cela soit volontaire ou non. Cette contrainte ($\approx$ sanction) peut être ressentie lorsque l’individu tente de résister. Le fait social est doté d'une puissance coercitive.
 
 2. Exemples de faits sociaux :
-   - *Langue* : C'est un fait social car elle existe indépendamment de la volonté des individus et s'impose à eux comme un moyen de communication.
+   - *Langue* : C'est un fait social, car elle existe indépendamment de la volonté des individus et s'impose à eux comme un moyen de communication.
    - *Monnaie* : Les systèmes monétaires fonctionnent indépendamment des désirs individuels et les règles de leur usage s’imposent aux membres de la société.
    - *Normes professionnelles* : Chaque profession impose des pratiques et des normes spécifiques aux individus qui la composent, contraignant ainsi leur comportement et leurs décisions.
 
