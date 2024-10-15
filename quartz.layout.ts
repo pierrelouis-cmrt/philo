@@ -8,8 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Made By Pierre-Louis": "https://shorturl.at/tVpLo",
+      "Fait par Pierre-Louis": "https://shorturl.at/tVpLo",
       GitHub: "https://github.com/pierrelouis-cmrt/philo",
+      "MIT License": "https://github.com/pierrelouis-cmrt/philo/blob/v4/LICENSE.txt",
     },
   }),
 }
