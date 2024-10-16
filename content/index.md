@@ -11,8 +11,11 @@ Pour y accéder, c'est [ici](/Cours/Cours%20Philo.md)!
 
 1. Pour avoir des réponses précises à vos questions courantes, voir des idées de sujets de dissertation et se remémorer les définitions clés du chapitre, voir le [guide d'étude](/Ressources/Guide%20d'Etude.md).
 
-2. Pour écouter un podcast récapitulatif du cours (anglais uniquement) :
-   ![[/Ressources/Podcast.wav]]
+2. Document PDF intéressant sur les nuances entre communautés et sociétés.
+   ![[Ressources/individu-et-communaute-dans-les-philosophies-occidentales-de-la-revolution.pdf]]
+
+3. Pour écouter un podcast récapitulatif du cours (anglais uniquement) :
+   ![[Ressources/Podcast.wav]]
    <details> 
    <summary><u>Transcription:</u></summary>
    <br>
